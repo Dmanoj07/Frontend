@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* You can add any global resets or base styles here if needed */
+body {
+  margin: 0;
+  padding: 0;
+}

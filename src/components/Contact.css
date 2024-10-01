@@ -1,0 +1,22 @@
+.contact-form {
+    border: 2px solid #064e3b; /* Dark green border for form */
+  }
+  
+  input, textarea {
+    color: #22c55e; /* Dark green input text */
+  }
+  
+  input::placeholder, 
+  textarea::placeholder {
+    color: rgba(34, 197, 94, 0.6); /* Transparent placeholder with dark green shade */
+  }
+  
+  button {
+    background-color: #064e3b; /* Dark green background */
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #065f46; /* Lighter green on hover */
+  }
+  
